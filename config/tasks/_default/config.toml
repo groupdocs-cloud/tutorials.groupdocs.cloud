@@ -1,0 +1,150 @@
+baseURL = "/tasks"
+title = "Aspose Cloud Tutorials"
+staticdir = 'content/static'
+enableRobotsTXT = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
+
+# Hugo allows theme composition (and inheritance). The precedence is from left to right.
+theme = ["tutorials-theme"]
+
+[params.menu]
+zh = "asposecloud-zh"
+ru = "asposecloud-ru"
+ar = "asposecloud-ar"
+cs = "asposecloud-cs"
+de = "asposecloud-de"
+el = "asposecloud-el"
+es = "asposecloud-es"
+fr = "asposecloud-fr"
+hi = "asposecloud-hi"
+hu = "asposecloud-hu"
+id = "asposecloud-id"
+it = "asposecloud-it"
+ja = "asposecloud-ja"
+ko = "asposecloud-ko"
+nl = "asposecloud-nl"
+pl = "asposecloud-pl"
+pt = "asposecloud-pt"
+sv = "asposecloud-sv"
+th = "asposecloud-th"
+tr = "asposecloud-tr"
+vi = "asposecloud-vi"
+zh-hant = "asposecloud-zht"
+
+defaultContentLang = 'en'
+[languages]
+  [languages.en]
+    contentDir = 'content/tasks/english'
+    languageName = 'English'
+	  languageCode = "en"
+    flag = "flag-us"
+    weight = 10
+	
+ignoreFiles = ["(?i:readme.md)", '\.spin$']
+
+# Image processing configuration.
+[imaging]
+resampleFilter = "CatmullRom"
+quality = 75
+anchor = "smart"
+
+[services]
+[services.googleAnalytics]
+# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
+# id = "UA-00000000-0"
+
+[markup]
+	[markup.tableOfContents]
+		endLevel = 2
+		ordered = true
+		startLevel = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false
+    tabWidth = 4
+
+# Everything below this are Site Params
+
+[params]
+copyright = "The Aspose Cloud Authors"
+privacy_policy = "https://policies.google.com/privacy"
+topbar_search_active = false
+logo_rel_link = ""
+
+# Containerize Menu
+[params.containerize]
+menu = "asposecloud-en"
+
+[params.meta]
+msapplication_TileColor = "#2b5797"
+msapplication_config = "https://cms.admin.containerize.com/templates/asposecloud/images/browserconfig.xml"
+theme_color = "#ffffff"
+author = "Aspose Cloud"
+
+# Title of 404 page
+title_404_page = "404 - Page Not Found | Aspose Cloud Tutorials"
+
+# Open Grapgh settings
+title = "Aspose Cloud Tutorials"
+images = ["images/aspose-cloud-image-for-open-graph.jpg"]
+description = "Send REST API calls to manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 file formats."
+
+
+#  Set to true to disable breadcrumb navigation.
+breadcrumb_disable = false
+#  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
+sidebar_search_disable = true
+#  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
+navbar_logo = false
+# Set to true to disable the About link in the site footer
+footer_about_disable = false
+
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      decimals = -1
+      keepCSS2 = true
+    [minify.tdewolff.html]
+      keepConditionalComments = true
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+    [minify.tdewolff.json]
+    [minify.tdewolff.svg]
+      decimals = -1
+    [minify.tdewolff.xml]
+      keepWhitespace = false
+
+[Taxonomies]
+
+[deployment]
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+#pattern = "^sitemap\\.xml$"
+#pattern = "^[a-z]\\.xml$"
+pattern = "^.+\\.(xml)$"
+contentType = "application/xml"
+gzip = true
+force = true

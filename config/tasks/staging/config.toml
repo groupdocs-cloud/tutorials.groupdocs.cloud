@@ -1,0 +1,8 @@
+baseURL = "https://qa-tutorials.aspose.cloud/tasks"
+
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://qa-tutorials.aspose.cloud/?prefix=tasks /&region=us-west-2"
+
+
+

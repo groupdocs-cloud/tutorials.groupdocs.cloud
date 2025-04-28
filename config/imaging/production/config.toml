@@ -1,0 +1,9 @@
+baseURL = "https://tutorials.aspose.cloud/imaging"
+
+# Google Tag Manager settings
+[params.gtm]
+gtm_id = "GTM-TSXP9CZ"
+
+[[deployment.targets]]
+name = "Production"
+URL = "s3://tutorials.aspose.cloud/?prefix=imaging/&region=us-west-2"

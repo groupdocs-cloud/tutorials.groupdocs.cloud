@@ -1,0 +1,9 @@
+baseURL = "https://tutorials.aspose.cloud/email"
+
+# Google Tag Manager settings
+[params.gtm]
+gtm_id = "GTM-TSXP9CZ"
+
+[[deployment.targets]]
+name = "Production"
+URL = "s3://tutorials.aspose.cloud/?prefix=email/&region=us-west-2"

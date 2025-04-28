@@ -1,8 +1,0 @@
-baseURL = "https://qa-tutorials.aspose.cloud/omr"
-
-[[deployment.targets]]
-name = "Stage"
-URL = "s3://qa-tutorials.aspose.cloud/?prefix=omr /&region=us-west-2"
-
-
-

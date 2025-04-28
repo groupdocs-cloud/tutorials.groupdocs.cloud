@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Aspose Cloud API References"
+title = "GroupDocs Cloud API Tutorials"
 staticdir = 'content/static'
 enableRobotsTXT = true
 enableGitInfo = true
@@ -9,28 +9,28 @@ disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
 theme = ["tutorials-theme"]
 
 [params.menu]
-zh = "asposecloud-zh"
-ru = "asposecloud-ru"
-ar = "asposecloud-ar"
-cs = "asposecloud-cs"
-de = "asposecloud-de"
-el = "asposecloud-el"
-es = "asposecloud-es"
-fr = "asposecloud-fr"
-hi = "asposecloud-hi"
-hu = "asposecloud-hu"
-id = "asposecloud-id"
-it = "asposecloud-it"
-ja = "asposecloud-ja"
-ko = "asposecloud-ko"
-nl = "asposecloud-nl"
-pl = "asposecloud-pl"
-pt = "asposecloud-pt"
-sv = "asposecloud-sv"
-th = "asposecloud-th"
-tr = "asposecloud-tr"
-vi = "asposecloud-vi"
-zh-hant = "asposecloud-zht"
+zh = "groupdocscloud-zh"
+ru = "groupdocscloud-ru"
+ar = "groupdocscloud-ar"
+cs = "groupdocscloud-cs"
+de = "groupdocscloud-de"
+el = "groupdocscloud-el"
+es = "groupdocscloud-es"
+fr = "groupdocscloud-fr"
+hi = "groupdocscloud-hi"
+hu = "groupdocscloud-hu"
+id = "groupdocscloud-id"
+it = "groupdocscloud-it"
+ja = "groupdocscloud-ja"
+ko = "groupdocscloud-ko"
+nl = "groupdocscloud-nl"
+pl = "groupdocscloud-pl"
+pt = "groupdocscloud-pt"
+sv = "groupdocscloud-sv"
+th = "groupdocscloud-th"
+tr = "groupdocscloud-tr"
+vi = "groupdocscloud-vi"
+zh-hant = "groupdocscloud-zht"
 
 defaultContentLang = 'en'
 [languages]
@@ -78,28 +78,28 @@ anchor = "smart"
 # Everything below this are Site Params
 
 [params]
-copyright = "The Aspose Cloud Authors"
+copyright = "The GroupDocs Cloud Authors"
 privacy_policy = "https://policies.google.com/privacy"
 topbar_search_active = false
 logo_rel_link = ""
 
 # Containerize Menu
 [params.containerize]
-menu = "asposecloud-en"
+menu = "groupdocscloud-en"
 
 [params.meta]
 msapplication_TileColor = "#2b5797"
-msapplication_config = "https://cms.admin.containerize.com/templates/asposecloud/images/browserconfig.xml"
+msapplication_config = "https://cms.admin.containerize.com/templates/groupdocscloud/images/browserconfig.xml"
 theme_color = "#ffffff"
-author = "Aspose Cloud"
+author = "GroupDocs Cloud"
 
 # Title of 404 page
-title_404_page = "404 - Page Not Found | Aspose Cloud API References"
+title_404_page = "404 - Page Not Found | GroupDocs Cloud API Tutorials"
 
 # Open Grapgh settings
-title = "Aspose Cloud API References"
-images = ["images/asposecloud-image-for-open-graph.jpg"]
-description = "Send REST API calls to manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 file formats."
+title = "GroupDocs Cloud API Tutorials"
+images = ["images/groupdocscloud-image-for-open-graph.jpg"]
+description = "REST APIs along with open-source SDKs that allow developers to enhance applications with the capability to display, annotate, convert, e-sign, merge, classify, compare & translate documents in the Cloud"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""

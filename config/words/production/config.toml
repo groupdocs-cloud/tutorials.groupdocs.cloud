@@ -1,9 +1,9 @@
-baseURL = "https://tutorials.aspose.cloud/words"
+baseURL = "https://tutorialsgroupdocs.cloud/viewer"
 
 # Google Tag Manager settings
 [params.gtm]
-gtm_id = "GTM-TSXP9CZ"
+gtm_id = "GTM-T42TVBC"
 
 [[deployment.targets]]
 name = "Production"
-URL = "s3://tutorials.aspose.cloud/?prefix=words/&region=us-west-2"
+URL = "s3://tutorialsgroupdocs.cloud/?prefix=viewer/&region=us-west-2"

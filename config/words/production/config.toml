@@ -1,4 +1,4 @@
-baseURL = "https://tutorialsgroupdocs.cloud/viewer"
+baseURL = "https://tutorials.groupdocs.cloud/viewer"
 
 # Google Tag Manager settings
 [params.gtm]
@@ -6,4 +6,4 @@ gtm_id = "GTM-T42TVBC"
 
 [[deployment.targets]]
 name = "Production"
-URL = "s3://tutorialsgroupdocs.cloud/?prefix=viewer/&region=us-west-2"
+URL = "s3://tutorials.groupdocs.cloud/?prefix=viewer/&region=us-west-2"

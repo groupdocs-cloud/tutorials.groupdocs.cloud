@@ -1,8 +1,8 @@
-baseURL = "https://qa-tutorialsgroupdocs.cloud/viewer"
+baseURL = "https://qa-tutorials.groupdocs.cloud/viewer"
 
 [[deployment.targets]]
 name = "Stage"
-URL = "s3://qa-tutorialsgroupdocs.cloud/?prefix=viewer /&region=us-west-2"
+URL = "s3://qa-tutorials.groupdocs.cloud/?prefix=viewer /&region=us-west-2"
 
 
 

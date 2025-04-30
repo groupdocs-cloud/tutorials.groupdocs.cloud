@@ -13,7 +13,7 @@ Welcome to the comprehensive developer guide for GroupDocs.Viewer Cloud. This gu
 
 ## Getting Started
 
-### [Developer Guide Tutorials](/viewer/developer-guide/)
+### [Getting Started](/viewer/getting-started/)
 
 Step-by-step tutorials for developers to master GroupDocs.Viewer Cloud API capabilities from basic to advanced features
 

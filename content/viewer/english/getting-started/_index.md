@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Viewer Cloud API Developer Guide Tutorials
 description: Step-by-step tutorials for developers to master GroupDocs.Viewer Cloud API capabilities from basic to advanced features
-url: /developer-guide/
+url: /getting-started/
 weight: 10
 ---
 
@@ -23,15 +23,15 @@ Our tutorials follow a structured learning path that will take you from the basi
 
 ### Basic Tutorials
 
-- [Tutorial: How to Work with Files in GroupDocs.Viewer Cloud](/developer-guide/working-with-files/) - Learn essential file operations including downloading, uploading, copying, moving, and deleting files for your document viewing solutions.
+- [Tutorial: How to Work with Files in GroupDocs.Viewer Cloud](/getting-started/working-with-files/) - Learn essential file operations including downloading, uploading, copying, moving, and deleting files for your document viewing solutions.
 
-- [Tutorial: Managing Folders in GroupDocs.Viewer Cloud](/developer-guide/working-with-folder/) - Master folder operations like creating, listing, copying, moving, and deleting folders to organize your documents efficiently.
+- [Tutorial: Managing Folders in GroupDocs.Viewer Cloud](/getting-started/working-with-folder/) - Master folder operations like creating, listing, copying, moving, and deleting folders to organize your documents efficiently.
 
 ### Intermediate Tutorials
 
-- [Tutorial: Working with Storage in GroupDocs.Viewer Cloud](/developer-guide/working-with-storage/) - Learn how to check storage existence, monitor storage space usage, verify file existence, and manage file versions.
+- [Tutorial: Working with Storage in GroupDocs.Viewer Cloud](/getting-started/working-with-storage/) - Learn how to check storage existence, monitor storage space usage, verify file existence, and manage file versions.
 
-- [Tutorial: Implementing Metered Consumption for GroupDocs.Viewer Cloud](/developer-guide/metered-consumption/) - Learn how to implement and monitor your license consumption with Docker-based deployments.
+- [Tutorial: Implementing Metered Consumption for GroupDocs.Viewer Cloud](/getting-started/metered-consumption/) - Learn how to implement and monitor your license consumption with Docker-based deployments.
 
 ## Resources
 

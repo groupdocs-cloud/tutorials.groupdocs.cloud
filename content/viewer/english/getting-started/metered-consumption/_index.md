@@ -1,6 +1,6 @@
 ---
 title: Implementing Metered Consumption for GroupDocs.Viewer Cloud Tutorial
-url: /developer-guide/metered-consumption/
+url: /getting-started/metered-consumption/
 description: Learn how to implement and monitor metered license consumption in GroupDocs.Viewer Cloud with Docker deployments in this step-by-step tutorial.
 weight: 10
 ---

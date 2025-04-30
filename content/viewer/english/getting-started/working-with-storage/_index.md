@@ -1,7 +1,7 @@
 ---
 title: Working with Storage in GroupDocs.Viewer Cloud Tutorial
 description: Learn how to manage cloud storage in GroupDocs.Viewer Cloud with this step-by-step tutorial covering storage operations, checking existence, and monitoring usage.
-url: /developer-guide/working-with-storage/
+url: /getting-started/working-with-storage/
 weight: 40
 ---
 

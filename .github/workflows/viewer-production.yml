@@ -6,11 +6,11 @@ name: tutorials.groupdocs.cloud(viewer)(family)(Production)
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths:
       - 'content/viewer/**'
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     paths:
       - 'content/viewer/**'    
 

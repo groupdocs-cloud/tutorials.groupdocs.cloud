@@ -1,105 +1,48 @@
 ---
-title: GroupDocs.Viewer Cloud Tutorials - Complete Implementation & Integration Guide
-url: /viewer/
-weight: 2
-description: Comprehensive tutorials for GroupDocs.Viewer Cloud API with step-by-step instructions, code examples, and best practices for document rendering and visualization.
-keywords: document viewer, cloud API, document rendering, PDF viewer, HTML viewer, image viewer, document conversion, GroupDocs tutorials
+title: GroupDocs.Viewer Cloud API Developer Guide Tutorials
+description: Step-by-step tutorials for developers to master GroupDocs.Viewer Cloud API capabilities from basic to advanced features
+url: /getting-started/
+weight: 10
 ---
 
-# GroupDocs.Viewer Cloud Tutorials
+# GroupDocs.Viewer Cloud API Developer Guide Tutorials
 
-## Introduction
+Welcome to our comprehensive tutorial series for the GroupDocs.Viewer Cloud API! These hands-on tutorials are designed to help developers quickly master the powerful document viewing capabilities offered by GroupDocs.Viewer Cloud.
 
-Welcome to the comprehensive tutorial collection for GroupDocs.Viewer Cloud. These tutorials provide practical instructions, code examples, and implementation guidance to help you integrate document viewing functionality in your applications using GroupDocs.Viewer Cloud API.
+## Learning Path
 
-## Getting Started
+Our tutorials follow a structured learning path that will take you from the basics to advanced implementation techniques:
 
-### [Getting Started](/viewer/getting-started/)
+1. Getting Started - Learn the fundamentals of GroupDocs.Viewer Cloud API
+2. Working with Files - Master file operations for your document viewing scenarios
+3. Working with Folders - Understand folder management to organize your documents
+4. Working with Storage - Learn storage operations for efficient document management
+5. Metered Consumption - Implement and monitor your license consumption
 
-Step-by-step tutorials to master GroupDocs.Viewer Cloud API capabilities, from basic setup to first implementation:
+## Available Tutorials
 
-- Creating your GroupDocs Cloud account
-- Obtaining your API credentials
-- Making your first API call
-- Understanding API response formats
+### Basic Tutorials
 
-### [Basic Usage Tutorials](/viewer/basic-usage/)
+- [Tutorial: How to Work with Files in GroupDocs.Viewer Cloud](/getting-started/working-with-files/) - Learn essential file operations including downloading, uploading, copying, moving, and deleting files for your document viewing solutions.
 
-Essential tutorials covering fundamental features of GroupDocs.Viewer Cloud:
+- [Tutorial: Managing Folders in GroupDocs.Viewer Cloud](/getting-started/working-with-folder/) - Master folder operations like creating, listing, copying, moving, and deleting folders to organize your documents efficiently.
 
-- Rendering documents to HTML
-- Converting documents to PDF
-- Transforming documents to images
-- Basic customization options
-- Handling different document formats
+### Intermediate Tutorials
 
-### [Advanced Usage Tutorials](/viewer/advanced-usage/)
+- [Tutorial: Working with Storage in GroupDocs.Viewer Cloud](/getting-started/working-with-storage/) - Learn how to check storage existence, monitor storage space usage, verify file existence, and manage file versions.
 
-Comprehensive tutorials for implementing advanced document viewing features:
+- [Tutorial: Implementing Metered Consumption for GroupDocs.Viewer Cloud](/getting-started/metered-consumption/) - Learn how to implement and monitor your license consumption with Docker-based deployments.
 
-- Custom rendering options
-- Watermark application
-- Page rotation and reordering
-- Text extraction and search
-- Responsive document viewing
-- Performance optimization techniques
+## Resources
 
-### [Data Structures Tutorials](/viewer/data-structures/)
+To support your learning journey, here are some helpful links:
 
-Practical guides on working with GroupDocs.Viewer Cloud API data structures:
+- [Product Page](https://products.groupdocs.cloud/viewer/)
+- [Documentation](https://docs.groupdocs.cloud/viewer/)
+- [Live Demo](https://products.groupdocs.app/viewer/family)
+- [API Reference UI](https://reference.groupdocs.cloud/viewer/)
+- [Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/)
+- [Free Support](https://forum.groupdocs.cloud/c/viewer/9)
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps)
 
-- Understanding request/response formats
-- Working with document information objects
-- Handling page data structures
-- Managing viewer options
-
-## Implementation Tutorials by Format
-
-### Microsoft Office Documents
-
-- Word (DOCX, DOC) rendering tutorials
-- Excel (XLSX, XLS) spreadsheet viewing guides
-- PowerPoint (PPTX, PPT) presentation display tutorials
-
-### PDF Documents
-
-- PDF rendering optimization
-- PDF viewing with annotations
-- Handling password-protected PDF files
-
-### CAD Drawings
-
-- DWG and DXF files rendering
-- CAD drawing layer management
-- CAD specific viewing options
-
-### Images & Email
-
-- Image formats (JPG, PNG, TIFF) processing
-- Email formats (MSG, EML) viewing tutorials
-- Attachments handling guides
-
-## Common Implementation Scenarios
-
-Practical tutorials for real-world usage scenarios:
-
-- Building a document viewer for your web application
-- Creating a multi-format preview system
-- Implementing secure document viewing
-- Developing a responsive document viewing solution
-- Constructing a document collaboration platform
-
-## Troubleshooting & Best Practices
-
-- Common implementation challenges and solutions
-- Performance optimization techniques
-- Security best practices
-- Resource-efficient rendering options
-- Recommended caching strategies
-
-## Latest Features & Updates
-
-- New format support tutorials
-- Recent API enhancements guides
-- Performance improvements implementation examples
-- Mobile viewing optimization tutorials
+We welcome your feedback on these tutorials! If you have questions or suggestions, please reach out through our [support forum](https://forum.groupdocs.cloud/c/viewer/9).

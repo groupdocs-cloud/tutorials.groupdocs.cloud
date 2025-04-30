@@ -2,6 +2,7 @@
 title: Managing Folders in GroupDocs.Viewer Cloud Tutorial
 description: Learn how to manage folders in GroupDocs.Viewer Cloud with this step-by-step tutorial covering folder creation, listing, copying, moving, and deletion.
 url: /developer-guide/working-with-folder/
+weight: 30
 ---
 
 # Tutorial: Managing Folders in GroupDocs.Viewer Cloud

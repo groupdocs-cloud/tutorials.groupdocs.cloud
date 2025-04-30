@@ -2,6 +2,7 @@
 title: How to Use the HTML Viewer with GroupDocs.Viewer Cloud API Tutorial
 description: Learn how to render documents to HTML format with this step-by-step tutorial for GroupDocs.Viewer Cloud API
 url: /basic-usage/html-viewer/
+weight: 5
 ---
 
 # Tutorial: How to Use the HTML Viewer with GroupDocs.Viewer Cloud API

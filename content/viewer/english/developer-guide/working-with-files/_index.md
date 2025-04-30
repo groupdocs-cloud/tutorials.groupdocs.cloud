@@ -2,6 +2,7 @@
 title: How to Work with Files in GroupDocs.Viewer Cloud Tutorial
 url: /developer-guide/working-with-files/
 description: Learn how to manage files in GroupDocs.Viewer Cloud with this step-by-step tutorial covering downloading, uploading, copying, moving, and deleting files.
+weight: 20
 ---
 
 # Tutorial: How to Work with Files in GroupDocs.Viewer Cloud

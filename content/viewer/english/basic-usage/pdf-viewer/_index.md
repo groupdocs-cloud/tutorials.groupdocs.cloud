@@ -2,6 +2,7 @@
 title: How to Use the PDF Viewer with GroupDocs.Viewer Cloud API Tutorial
 description: Learn how to render documents to PDF format with this comprehensive tutorial for GroupDocs.Viewer Cloud API
 url: /basic-usage/pdf-viewer/
+weight: 8
 ---
 
 # Tutorial: How to Use the PDF Viewer with GroupDocs.Viewer Cloud API

@@ -2,7 +2,7 @@
 title: How to Get Supported File Formats with GroupDocs.Viewer Cloud API Tutorial
 url: /basic-usage/get-supported-file-formats/
 description: Learn how to retrieve the complete list of file formats supported by GroupDocs.Viewer Cloud API in this beginner-friendly tutorial
-
+weight: 4
 ---
 
 # Tutorial: How to Get Supported File Formats with GroupDocs.Viewer Cloud API

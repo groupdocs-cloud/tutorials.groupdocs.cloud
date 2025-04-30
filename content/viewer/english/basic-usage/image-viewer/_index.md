@@ -2,6 +2,7 @@
 title: How to Use the Image Viewer with GroupDocs.Viewer Cloud API Tutorial
 description: Learn how to render documents to image formats like JPG and PNG with this comprehensive tutorial for GroupDocs.Viewer Cloud API
 url: /basic-usage/image-viewer/
+weight: 7
 ---
 
 # Tutorial: How to Use the Image Viewer with GroupDocs.Viewer Cloud API

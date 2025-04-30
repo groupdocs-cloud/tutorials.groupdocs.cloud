@@ -2,6 +2,7 @@
 title: How to Secure PDF Documents with GroupDocs.Viewer Cloud API Tutorial
 description: Learn how to implement PDF security features including passwords and permissions using GroupDocs.Viewer Cloud API in this step-by-step tutorial
 url: /basic-usage/pdf-viewer-protect/
+weight: 9
 ---
 
 # Tutorial: How to Secure PDF Documents with GroupDocs.Viewer Cloud API

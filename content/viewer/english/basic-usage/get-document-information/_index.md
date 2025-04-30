@@ -2,7 +2,7 @@
 title: How to Retrieve Document Information with GroupDocs.Viewer Cloud API Tutorial
 url: /basic-usage/get-document-information/
 description: Learn how to retrieve comprehensive document information including format, page count, and properties using GroupDocs.Viewer Cloud API in this step-by-step tutorial
-
+weight: 3
 ---
 
 # Tutorial: How to Retrieve Document Information with GroupDocs.Viewer Cloud API

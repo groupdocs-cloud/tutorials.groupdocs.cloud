@@ -2,6 +2,7 @@
 title: Creating Responsive HTML Layout with GroupDocs.Viewer Cloud API Tutorial
 description: Learn how to create responsive HTML document views that adapt to different screen sizes using GroupDocs.Viewer Cloud API in this step-by-step tutorial
 url: /basic-usage/html-viewer-responsive-layout/
+weight: 6
 ---
 
 # Tutorial: Creating Responsive HTML Layout with GroupDocs.Viewer Cloud API

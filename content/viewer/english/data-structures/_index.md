@@ -1,6 +1,6 @@
 ---
 title: GroupDocs.Viewer Cloud API Document Data Structures Tutorials
-weight: 4
+weight: 10
 url: /data-structures/
 description: Learn how to use GroupDocs.Viewer Cloud API data structures with these step-by-step tutorials for developers
 ---

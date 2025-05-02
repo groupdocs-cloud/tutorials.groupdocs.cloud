@@ -327,7 +327,7 @@ In this tutorial, you've mastered:
 
 ## Next Steps
 
-Ready to learn more about format-specific rendering? Continue your journey with our [HTML Rendering Tutorial](/data-structures/htmloptions) or [Image Rendering Tutorial](/data-structures/image-options/).
+Ready to learn more about format-specific rendering? Continue your journey with our [HTML Rendering Tutorial](/data-structures/html-options/) or [Image Rendering Tutorial](/data-structures/image-options/).
 
 ## Helpful Resources
 

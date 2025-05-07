@@ -18,12 +18,12 @@ Learn how to render and display over 170 document and image file formats in your
 ### [GroupDocs.Conversion Cloud Tutorials](./conversion/)
 Master document conversion between multiple formats with our detailed guides. Learn to convert documents to and from PDF, Word, Excel, PowerPoint, images, and many other formats through simple API calls.
 
-### [GroupDocs.Merger Cloud Tutorials](#)
+### [GroupDocs.Merger Cloud Tutorials](./merger/)
 Discover how to join multiple documents into one, split documents into parts, manage pages, and organize documents efficiently through our cloud API integration.
 
 ## Document Processing Tutorials
 
-### [GroupDocs.Annotation Cloud Tutorials](#)
+### [GroupDocs.Annotation Cloud Tutorials](./annotation/)
 Explore our tutorials on adding, editing, and managing annotations in documents. Learn to implement comments, highlights, text markup, and various other annotation tools in your applications.
 
 ### [GroupDocs.Comparison Cloud Tutorials](#)

@@ -1,0 +1,8 @@
+baseURL = "https://qa-tutorials.groupdocs.cloud/annotation"
+
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://qa-tutorials.groupdocs.cloud/?prefix=annotation /&region=us-west-2"
+
+
+

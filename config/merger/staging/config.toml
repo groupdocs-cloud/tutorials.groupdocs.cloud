@@ -1,0 +1,8 @@
+baseURL = "https://qa-tutorials.groupdocs.cloud/merger"
+
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://qa-tutorials.groupdocs.cloud/?prefix=merger /&region=us-west-2"
+
+
+

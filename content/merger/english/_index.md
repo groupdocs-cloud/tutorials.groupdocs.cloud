@@ -97,10 +97,12 @@ var response = api.Split(new SplitRequest(splitOptions));
 - Optimize document size before uploading for better performance
 
 
-## Additional Resources
+## Helpful Resources
 
-- [API Reference](https://apireference.groupdocs.cloud/merger/)
-- [GitHub SDK Repositories](https://github.com/groupdocs-merger-cloud)
-- [Code Examples](https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-examples)
-- [Documentation Home](https://docs.groupdocs.cloud/merger/)
-- [Blog](https://blog.groupdocs.cloud/category/merger/)
+- [Product Page](https://products.groupdocs.cloud/merger/)
+- [Documentation](https://docs.groupdocs.cloud/merger/)
+- [Live Demo](https://products.groupdocs.app/merger/family)
+- [API Reference](https://reference.groupdocs.cloud/merger/)
+- [Blog](https://blog.groupdocs.cloud/categories/groupdocs.merger-cloud-product-family/)
+- [Free Support](https://forum.groupdocs.cloud/c/merger/18/)
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps)

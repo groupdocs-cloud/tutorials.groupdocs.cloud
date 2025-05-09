@@ -26,7 +26,7 @@ Discover how to join multiple documents into one, split documents into parts, ma
 ### [GroupDocs.Annotation Cloud Tutorials](./annotation/)
 Explore our tutorials on adding, editing, and managing annotations in documents. Learn to implement comments, highlights, text markup, and various other annotation tools in your applications.
 
-### [GroupDocs.Comparison Cloud Tutorials](#)
+### [GroupDocs.Comparison Cloud Tutorials](./comarison/)
 Learn document comparison techniques with our step-by-step guides for detecting changes between document versions, generating visual difference reports, and managing tracked changes.
 
 ### [GroupDocs.Editor Cloud Tutorials](#)

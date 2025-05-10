@@ -48,10 +48,6 @@ This tutorial series follows a structured learning path that builds your skills 
 
 - [Tutorial: How to Set Password for Result Document](/advanced-features/set-password-for-resultant-document/) - Step-by-step guide to securing the comparison output.
 
-### Additional Resources
-
-- [Tutorial: How to Monitor Metered Consumption](/advanced-features/metered-consumption) - Learn to track API usage with the metered license option.
-
 ## Prerequisites
 
 Before starting these tutorials, ensure you have:

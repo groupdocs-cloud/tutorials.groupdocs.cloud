@@ -15,15 +15,15 @@ GroupDocs.Comparison Cloud is a REST API that allows you to compare documents ac
 
 ## Getting Started
 
-###[Document Getting Started Tutorials](/comparison/getting-started/)
+### [Document Getting Started Tutorials](/comparison/getting-started/)
 
 Learn how to use GroupDocs.Comparison Cloud API to compare various document formats
 
-###[Document Advanced Features Tutorial](/comparison/advanced-features/)
+### [Document Advanced Features Tutorial](/comparison/advanced-features/)
 
 Tutorials for implementing advanced document comparison features using GroupDocs.Comparison Cloud API for developers
 
-###[Document Advanced Data Structures Tutorials](/comparison/advanced-data-structures/)
+### [Document Advanced Data Structures Tutorials](/comparison/advanced-data-structures/)
 
 Tutorials for working with advanced data structures in GroupDocs.Comparison Cloud API
 

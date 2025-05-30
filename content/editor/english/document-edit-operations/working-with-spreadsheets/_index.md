@@ -31,7 +31,7 @@ GroupDocs.Editor Cloud supports various spreadsheet formats including XLS, XLSX,
 
 ### Step 1: Upload Your Spreadsheet to Cloud Storage
 
-First, upload your spreadsheet document to GroupDocs cloud storage. For details on storage operations, refer to the [Storage Operations Tutorial](/storage-operations).
+First, upload your spreadsheet document to GroupDocs cloud storage. For details on storage operations, refer to the [Storage Operations Tutorial](/storage-handling-procedures/).
 
 ### Step 2: Load the Spreadsheet for Editing
 

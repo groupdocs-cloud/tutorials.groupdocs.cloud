@@ -29,7 +29,7 @@ Explore our tutorials on adding, editing, and managing annotations in documents.
 ### [GroupDocs.Comparison Cloud Tutorials](./comparison/)
 Learn document comparison techniques with our step-by-step guides for detecting changes between document versions, generating visual difference reports, and managing tracked changes.
 
-### [GroupDocs.Editor Cloud Tutorials](#)
+### [GroupDocs.Editor Cloud Tutorials](./editor/)
 Master document editing capabilities with tutorials on embedding document editing functionality into your applications without relying on third-party editors.
 
 ### [GroupDocs.Assembly Cloud Tutorials](#)

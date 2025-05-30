@@ -1,0 +1,8 @@
+baseURL = "https://qa-tutorials.groupdocs.cloud/editor"
+
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://qa-tutorials.groupdocs.cloud/?prefix=editor /&region=us-west-2"
+
+
+

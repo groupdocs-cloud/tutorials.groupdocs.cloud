@@ -32,7 +32,7 @@ Learn document comparison techniques with our step-by-step guides for detecting 
 ### [GroupDocs.Editor Cloud Tutorials](./editor/)
 Master document editing capabilities with tutorials on embedding document editing functionality into your applications without relying on third-party editors.
 
-### [GroupDocs.Assembly Cloud Tutorials](#)
+### [GroupDocs.Assembly Cloud Tutorials](./assembly/)
 Learn document automation and report generation with our practical guides covering template design, data binding, and dynamic document assembly for various business applications.
 
 ## Data Extraction & Security Tutorials

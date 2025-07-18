@@ -803,6 +803,6 @@ Now that you've mastered document information extraction, here are logical next 
 - **Machine Learning Integration**: Use extracted text for content classification and analysis
 
 ### Documentation and Tools
-- **[Complete Product Overview](https://products.groupdocs.cloud/viewer/) **: Understand all available features
-- **[Comprehensive API Documentation](https://docs.groupdocs.cloud/viewer/) **: Detailed reference for every endpoint
-- **[Interactive Live Demo](https://products.groupdocs.app/viewer/family) **: Test features without writing code
+- [Complete Product Overview](https://products.groupdocs.cloud/viewer/) Understand all available features
+- [Comprehensive API Documentation](https://docs.groupdocs.cloud/viewer/) Detailed reference for every endpoint
+- [Interactive Live Demo](https://products.groupdocs.app/viewer/family) Test features without writing code

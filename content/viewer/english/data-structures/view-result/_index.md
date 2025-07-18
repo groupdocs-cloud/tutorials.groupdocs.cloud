@@ -661,15 +661,15 @@ This knowledge forms the foundation for building sophisticated document viewing 
 
 Ready to dive deeper into document processing? Here are your next learning opportunities:
 
-- **[InfoResult Tutorial](/data-structures/info-result) **: Learn to extract document metadata and page information
+- [InfoResult Tutorial](/data-structures/info-result) Learn to extract document metadata and page information
 - **Advanced Rendering Options**: Explore custom watermarking and page range selection
 - **Performance Optimization**: Master caching strategies and lazy loading techniques
 - **Security Best Practices**: Implement proper authentication and access controls
 
 ## Essential Resources for Continued Learning
 
-- **[Product Overview](https://products.groupdocs.cloud/viewer/) **: Get the big picture of what's possible
-- **[Complete Documentation](https://docs.groupdocs.cloud/viewer/) **: Deep dive into every feature
-- **[API Reference](https://reference.groupdocs.cloud/viewer/) **: Your go-to for technical details
-- **[Community Support](https://forum.groupdocs.cloud/c/viewer/9) **: Get help from other developers
-- **[Free Trial](https://dashboard.groupdocs.cloud/#/apps) **: Test everything before you commit
+- [Product Overview](https://products.groupdocs.cloud/viewer/)  Get the big picture of what's possible
+- [Complete Documentation](https://docs.groupdocs.cloud/viewer/)  Deep dive into every feature
+- [API Reference](https://reference.groupdocs.cloud/viewer/)  Your go-to for technical details
+- [Community Support](https://forum.groupdocs.cloud/c/viewer/9)  Get help from other developers
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps)  Test everything before you commit

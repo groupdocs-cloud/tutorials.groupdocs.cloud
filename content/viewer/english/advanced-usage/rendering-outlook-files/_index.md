@@ -203,8 +203,6 @@ curl -v "https://api.groupdocs.cloud/v2.0/viewer/view" \
 }"
 ```
 
-**Pro Tip**: Filters use substring matching, so "susan" will match "susan.smith@company.com", "susanA@domain.org", etc. Be specific enough to avoid false positives.
-
 ## 3. Performance Optimization with Item Limits
 
 Large PST files can contain hundreds of thousands of emails. Even with filtering, you might end up with more results than practical to display. That's where item limiting becomes crucial.

@@ -1361,15 +1361,15 @@ class RobustFormatValidator {
 
 ### Quick Reference Links
 
-- **[Product Overview](https://products.groupdocs.cloud/viewer/) ** - Features and capabilities
-- **[API Documentation](https://docs.groupdocs.cloud/viewer/) ** - Complete technical reference
-- **[Live Demo](https://products.groupdocs.app/viewer/family) ** - Try before you buy
-- **[API Reference](https://reference.groupdocs.cloud/viewer/) ** - Detailed endpoint documentation
-- **[Developer Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/) ** - Tips, tutorials, and updates
+- [Product Overview](https://products.groupdocs.cloud/viewer/) - Features and capabilities
+- [API Documentation](https://docs.groupdocs.cloud/viewer/) - Complete technical reference
+- [Live Demo](https://products.groupdocs.app/viewer/family) - Try before you buy
+- [API Reference](https://reference.groupdocs.cloud/viewer/) - Detailed endpoint documentation
+- [Developer Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/) - Tips, tutorials, and updates
 
 ### Getting Help
 
 Have questions about implementing file format validation? Running into issues with your integration? Here's how to get support:
 
-- **[Free Support Forum](https://forum.groupdocs.cloud/c/viewer/9) ** - Community support and developer discussions
-- **[Free Trial](https://dashboard.groupdocs.cloud/#/apps) ** - Test all features with generous usage limits
+- [Free Support Forum](https://forum.groupdocs.cloud/c/viewer/9) - Community support and developer discussions
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps) - Test all features with generous usage limits

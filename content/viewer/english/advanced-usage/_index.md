@@ -172,7 +172,7 @@ Ready to dive in? Here's our recommended learning path:
 
 Beyond these tutorials, here are valuable resources for your document viewer cloud API journey:
 
-- **[Product Overview]**:(https://products.groupdocs.cloud/viewer/) Learn about all available features and capabilities
-- **[Free Trial]**:(https://dashboard.groupdocs.cloud/#/apps) Get hands-on experience with full API access
-- **[Technical Documentation]**:(https://docs.groupdocs.cloud/viewer/) Comprehensive API reference and guides
-- **[Community Support]**: (https://forum.groupdocs.cloud/c/viewer/9) Connect with other developers and get help
+- [Product Overview](https://products.groupdocs.cloud/viewer/) Learn about all available features and capabilities
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps) Get hands-on experience with full API access
+- [Technical Documentation](https://docs.groupdocs.cloud/viewer/) Comprehensive API reference and guides
+- [Community Support](https://forum.groupdocs.cloud/c/viewer/9) Connect with other developers and get help

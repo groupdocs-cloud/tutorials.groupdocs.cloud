@@ -484,7 +484,7 @@ Continue your learning journey with these helpful resources:
 - [Product Page](https://products.groupdocs.cloud/viewer/) - Learn about all GroupDocs.Viewer Cloud features
 - [Documentation](https://docs.groupdocs.cloud/viewer/) - Complete API documentation and guides
 - [Live Demo](https://products.groupdocs.app/viewer/family) - Try watermarking features online
-- [Swagger UI(https://reference.groupdocs.cloud/viewer/) - Interactive API documentation
+- [Swagger UI](https://reference.groupdocs.cloud/viewer/) - Interactive API documentation
 - [Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/) - Latest updates and tutorials
 - [Free Support](https://forum.groupdocs.cloud/c/viewer/9) - Community support and discussion
 - [Free Trial](https://dashboard.groupdocs.cloud/#/apps) - Start building with watermarking today

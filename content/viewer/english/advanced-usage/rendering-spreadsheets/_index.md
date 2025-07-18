@@ -485,8 +485,8 @@ Ready to take your Excel viewer to the next level? Consider exploring:
 
 ## Resources and Support
 
-- **[Product Documentation](https://docs.groupdocs.cloud/viewer/) **: Comprehensive API reference and guides
-- **[Live API Explorer](https://reference.groupdocs.cloud/viewer/) **: Test API calls directly in your browser
-- **[Code Samples](https://github.com/groupdocs-viewer-cloud) **: Complete examples in multiple programming languages
-- **[Community Forum](https://forum.groupdocs.cloud/c/viewer/9) **: Get help from developers and GroupDocs experts
-- **[Free Trial](https://dashboard.groupdocs.cloud/#/apps) **: Start building with 150 free API calls per month
+- [Product Documentation](https://docs.groupdocs.cloud/viewer/) Comprehensive API reference and guides
+- [Live API Explorer](https://reference.groupdocs.cloud/viewer/) Test API calls directly in your browser
+- [Code Samples](https://github.com/groupdocs-viewer-cloud) Complete examples in multiple programming languages
+- [Community Forum](https://forum.groupdocs.cloud/c/viewer/9) Get help from developers and GroupDocs experts
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps) Start building with 150 free API calls per month

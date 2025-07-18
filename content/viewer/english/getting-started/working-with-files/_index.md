@@ -1174,10 +1174,10 @@ Develop a system that:
 
 ## Additional Resources for Continued Learning
 
-- **[Product Page](https://products.groupdocs.cloud/viewer/) **: Latest features and updates
-- **[Documentation](https://docs.groupdocs.cloud/viewer/) **: Comprehensive API documentation
-- **[Live Demo](https://products.groupdocs.app/viewer/family) **: Try the viewer in action
-- **[API Reference UI](https://reference.groupdocs.cloud/viewer/) **: Interactive API explorer
-- **[Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/) **: Tips, tutorials, and best practices
-- **[Free Support](https://forum.groupdocs.cloud/c/viewer/9) **: Community support and discussions
-- **[Free Trial](https://dashboard.groupdocs.cloud/#/apps) **: Get started with your own account
+- [Product Page](https://products.groupdocs.cloud/viewer/)  Latest features and updates
+- [Documentation](https://docs.groupdocs.cloud/viewer/)  Comprehensive API documentation
+- [Live Demo](https://products.groupdocs.app/viewer/family)  Try the viewer in action
+- [API Reference UI](https://reference.groupdocs.cloud/viewer/)  Interactive API explorer
+- [Blog](https://blog.groupdocs.cloud/categories/groupdocs.viewer-cloud-product-family/)  Tips, tutorials, and best practices
+- [Free Support](https://forum.groupdocs.cloud/c/viewer/9)  Community support and discussions
+- [Free Trial](https://dashboard.groupdocs.cloud/#/apps)  Get started with your own account

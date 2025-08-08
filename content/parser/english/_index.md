@@ -1,9 +1,8 @@
 ---
-id: "developer-guide"
-url: /parser/
 title: "Document Parsing API - Extract Text, Images & Metadata"
 linktitle: "Document Parsing API"
 productName: "GroupDocs.Parser Cloud"
+url: /parser/
 weight: 2
 description: "Complete resource for document parsing API integration. Extract text, images, and metadata from 50+ formats using GroupDocs.Parser Cloud with SDKs and examples."
 keywords: "document parsing API, cloud document extraction, text extraction API, document metadata extraction, PDF text extraction, document parser SDK"

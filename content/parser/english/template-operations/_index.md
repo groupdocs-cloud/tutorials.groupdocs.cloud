@@ -29,13 +29,13 @@ In these tutorials, you'll discover how to:
 
 Here are the step-by-step guides available in this tutorial series:
 
-1. [Learn to Create or Update Templates]({{< ref "/template-operations/create-or-update-template" >}})  
+1. [Learn to Create or Update Templates](/template-operations/create-or-update-template/)  
    Create custom templates to define data extraction patterns or update existing templates with new fields and tables.
 
-2. [Tutorial: How to Retrieve Templates]({{< ref "/template-operations/get-template" >}})  
+2. [Tutorial: How to Retrieve Templates](/template-operations/get-template/)  
    Master the process of retrieving saved templates to use in your document parsing operations.
 
-3. [Tutorial: Deleting Unused Templates]({{< ref "/template-operations/delete-template" >}})  
+3. [Tutorial: Deleting Unused Templates](/template-operations/delete-template/)  
    Learn the proper methods for removing templates that are no longer needed in your workflow.
 
 ## Prerequisites

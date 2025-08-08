@@ -1,0 +1,9 @@
+baseURL = "https://tutorials.groupdocs.cloud/parser"
+
+# Google Tag Manager settings
+[params.gtm]
+gtm_id = "GTM-T42TVBC"
+
+[[deployment.targets]]
+name = "Production"
+URL = "s3://tutorials.groupdocs.cloud/?prefix=parser/&region=us-west-2"

@@ -37,7 +37,7 @@ Learn document automation and report generation with our practical guides coveri
 
 ## Data Extraction & Security Tutorials
 
-### [GroupDocs.Parser Cloud Tutorials](#)
+### [GroupDocs.Parser Cloud Tutorials](./parser/)
 Discover techniques for extracting text, images, and metadata from various document formats with our comprehensive guides for data extraction and document parsing.
 
 ### [GroupDocs.Signature Cloud Tutorials](#)

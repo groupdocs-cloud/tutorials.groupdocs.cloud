@@ -27,9 +27,9 @@ This tutorial series follows a progressive learning path, starting with basic op
 
 ### Image Extraction Tutorials
 
-- [Tutorial: Extract Images from the Whole Document](/extract-images/extract-images-whole-document/) - Learn to extract all images from various document formats
-- [Tutorial: Extract Images by a Page Number Range](/extract-images//extract-images-page-number-range/) - Master extracting images from specific document pages
-- [Tutorial: Extract Images from a Document Inside a Container](/extract-images//extract-images-document-inside-container/) - Discover advanced techniques for extracting images from nested documents
+- [Tutorial: Extract Images from the Whole Document](/parse-operations/extract-images-whole-document/) - Learn to extract all images from various document formats
+- [Tutorial: Extract Images by a Page Number Range](/parse-operations/extract-images-page-number-range/) - Master extracting images from specific document pages
+- [Tutorial: Extract Images from a Document Inside a Container](/parse-operations/extract-images-document-inside-container/) - Discover advanced techniques for extracting images from nested documents
 
 ## Prerequisites
 

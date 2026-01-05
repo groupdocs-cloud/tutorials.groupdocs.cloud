@@ -1,0 +1,82 @@
+# Master workflow to trigger all staging workflows
+
+name: All Staging Workflows
+
+# Controls when the action will run
+on:
+  # Triggers the workflow on push or pull request events but only for the staging branch
+  push:
+    branches: [ staging ]
+    paths:
+      - 'content/**'
+  pull_request:
+    branches: [ staging ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  trigger-all-staging:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger home-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: home-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger viewer-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: viewer-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger annotation-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: annotation-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger assembly-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: assembly-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger comparison-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: comparison-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger conversion-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: conversion-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger editor-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: editor-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger merger-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: merger-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger parser-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: parser-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger signature-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: signature-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
